@@ -8,46 +8,45 @@
 
 ---
 
-### 👨‍💻 Sobre mí
-Estudiante de **Ingeniería Mecatrónica** enfocado en la convergencia entre el hardware de precisión y el software escalable. Mi objetivo es desarrollar tecnología que impulse la próxima era de la exploración espacial y la telemetría de alto rendimiento.
+### 👨‍💻 About Me
+Mechatronics Engineering student focused on the intersection of precision hardware and scalable software. I build technology designed to drive the next era of high-performance telemetry and aerospace exploration.
 
-* **Proyectos Actuales:** * **AMASA:** Sistema de inteligencia operativa (SaaS) para la industria panificadora.
-    * **Hydro-Rocket Telemetry:** Desarrollo de aviónica y dashboards en tiempo real para cohetería.
-    * **Vértice Labs:** Incubadora de investigación técnica estudiantil.
-* **Intereses:** Cohetería experimental, infraestructura de servidores (Home Lab), impresión 3D y optimización de sistemas.
-* **Aspiración:** NASA, SpaceX o Formula 1.
+* **Current Projects:**
+    * **AMASA:** Operational Intelligence SaaS for the bakery and food industry (US Market).
+    * **Hydro-Rocket Telemetry:** Developing custom avionics and real-time dashboards for experimental rocketry.
+    * **Vértice Labs:** Founder of a student-led technical research and project incubator.
+* **Interests:** Experimental Rocketry, Home Lab Infrastructure, 3D Printing optimization, and Embedded Systems.
+* **Career Goals:** NASA, SpaceX, or Formula 1.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-**Lenguajes y Tecnologías:**
+**Languages & Frameworks:**
 <p align="left">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
-**Hardware & Tools:**
-- **CAD/CAM:** Autodesk Fusion 360.
-- **Manufacturing:** 3D Printing (Bambu Lab P2S).
-- **Sistemas:** Embedded Systems (ESP32, Arduino), Proxmox (Virtualización), Pi-hole.
-- **IA:** Computer Vision (YOLO/Ultralytics).
+**Engineering & Infrastructure:**
+* **CAD/CAM:** Autodesk Fusion 360.
+* **Manufacturing:** Precision 3D Printing (Bambu Lab P2S).
+* **Systems:** Embedded Systems (ESP32, Arduino), Proxmox VE (Virtualization), Linux Server management.
+* **AI/Vision:** Object Detection & Classification (YOLO/Ultralytics).
 
 ---
 
-### 🏗️ Home Lab & Infra
-Mantengo un entorno de laboratorio dedicado para pruebas de despliegue y automatización:
-- **Proxmox VE:** Gestión de nodos y contenedores.
-- **NAS/Server:** Organización de activos y self-hosting.
-- **VLANs:** Segmentación de red para desarrollo seguro.
+### 🏗️ Home Lab & DevOps
+I maintain a dedicated lab environment for deployment testing and automation:
+* **Hypervisor:** Proxmox VE for managing VM nodes and LXC containers.
+* **Network:** Segmented VLANs for secure development (Pi-hole, local DNS).
+* **Storage:** Network Attached Storage (NAS) for asset management and documentation.
 
 ---
 
@@ -59,9 +58,11 @@ Mantengo un entorno de laboratorio dedicado para pruebas de despliegue y automat
 
 ---
 
-### 📫 Contacto
-- **Web:** [getamasa.com](https://getamasa.com)
-- **LinkedIn:** [Tu Perfil Aquí]
+### 📫 Get in Touch
+* **Website:** [getamasa.com](https://getamasa.com)
+* **Email:** me@getamasa.com
+* **Personal Email: ** jesusp2305@gmail.com
+* **LinkedIn:** [https://www.linkedin.com/in/jes%C3%BAs-alberto-perea-garc%C3%ADa-152069281/]
 
 ---
 <p align="center">
