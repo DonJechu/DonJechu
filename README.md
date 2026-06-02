@@ -49,6 +49,8 @@ I maintain a dedicated lab environment for deployment testing and automation:
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DonJechu&show_icons=true&theme=tokyonight&count_private=true)
+
 ### 📫 Get in Touch
 * **Website:** [getamasa.com](https://getamasa.com)
 * **Email:** me@getamasa.com
