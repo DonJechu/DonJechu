@@ -55,7 +55,7 @@ I maintain a dedicated lab environment for deployment testing and automation:
 * **Website:** [getamasa.com](https://getamasa.com)
 * **Email:** me@getamasa.com
 * **Personal Email:** jesusp2305@gmail.com
-* **LinkedIn:** [https://www.linkedin.com/in/jes%C3%BAs-alberto-perea-garc%C3%ADa-152069281/]
+* **LinkedIn:** [https://www.linkedin.com/in/jesus-perea]
 
 ---
 <p align="center">
