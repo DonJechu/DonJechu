@@ -21,7 +21,7 @@
 |---|---|
 | [**Atl-I Flight Computer**](https://github.com/DonJechu/Atl-I_Flight-Computer) | ESP32 avionics (IMU + barometer), 7-state flight logic, 10 Hz logging. Flew 7 instrumented launches (peak 6.3 g, burnout up to 23.7 m/s). Its data exposed three barometer failure modes, now part of an IPN study. |
 | [**Atl-I Ground Station**](https://github.com/DonJechu/Atl-I_Ground-Station) | React + Vite dashboard: live WebSocket telemetry, 3D attitude, flight-phase tracking. |
-| [**Energy Transport in Conductors**](https://github.com/DonJechu/energy-transport-in-conductors) | Technical note: why energy travels in the fields *around* a wire (Poynting vector), and what that means for EMI in avionics wiring. |
+| [**Energy Transport in Conductors**](https://github.com/DonJechu/energy-transport-in-conductors) | Technical note: why energy travels in the fields *around* a wire (Poynting vector), and what that means for EMI in avionics wiring. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22983742.svg)](https://doi.org/10.5281/zenodo.22983742) |
 | [**MirrorLink**](https://github.com/DonJechu/Inteligent_Mirror) | Smart mirror with MediaPipe gesture/face control and a React Native companion app. |
 
 ### 🛠️ Stack
