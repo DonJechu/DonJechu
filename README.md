@@ -1,63 +1,46 @@
-# 🚀 Jesus Perea | Mechatronics Engineer & SaaS Founder
+# Jesús Perea
+
+**Mechatronics Engineering student @ IEST Anáhuac** · I build flight computers, analyze what they record, and write down the physics.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Building_AMASA-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Aerospace_%26_Motorsports-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/University-IEST_Anáhuac-blue?style=flat-square" />
+  <a href="https://www.linkedin.com/in/jesus-perea"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://orcid.org/0009-0004-9934-2648"><img src="https://img.shields.io/badge/ORCID-0009--0004--9934--2648-A6CE39?style=flat-square&logo=orcid&logoColor=white" /></a>
+  <a href="mailto:jesusp2305@gmail.com"><img src="https://img.shields.io/badge/Email-jesusp2305%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-Mechatronics Engineering student focused on the intersection of precision hardware and scalable software. I build technology designed to drive the next era of high-performance telemetry and aerospace exploration.
+### 🚀 Now
 
-* **Current Projects:**
-    * **AMASA:** Operational Intelligence SaaS for the bakery and food industry (US Market).
-    * **Hydro-Rocket Telemetry:** Developing custom avionics and real-time dashboards for experimental rocketry.
-    * **Vértice Labs:** Founder of a student-led technical research and project incubator.
-* **Interests:** Experimental Rocketry, Home Lab Infrastructure, 3D Printing optimization, and Embedded Systems.
-* **Career Goals:** NASA, SpaceX, or Formula 1.
+- **Atl-1.1:** building 3 identical flight computers with parachute recovery for a controlled, triplicate water-rocket campaign (Dec 2026) with researchers at IPN's Centro de Desarrollo Aeroespacial.
+- **AMASA:** operational-intelligence SaaS for the bakery and food industry → [getamasa.com](https://getamasa.com)
 
----
+### 🛰️ Featured work
 
-### 🛠️ Tech Stack & Skills
+| Project | What it is |
+|---|---|
+| [**Atl-I Flight Computer**](https://github.com/DonJechu/Atl-I_Flight-Computer) | ESP32 avionics (IMU + barometer), 7-state flight logic, 10 Hz logging. Flew 7 instrumented launches (peak 6.3 g, burnout up to 23.7 m/s). Its data exposed three barometer failure modes, now part of an IPN study. |
+| [**Atl-I Ground Station**](https://github.com/DonJechu/Atl-I_Ground-Station) | React + Vite dashboard: live WebSocket telemetry, 3D attitude, flight-phase tracking. |
+| [**Energy Transport in Conductors**](https://github.com/DonJechu/energy-transport-in-conductors) | Technical note: why energy travels in the fields *around* a wire (Poynting vector), and what that means for EMI in avionics wiring. |
+| [**MirrorLink**](https://github.com/DonJechu/Inteligent_Mirror) | Smart mirror with MediaPipe gesture/face control and a React Native companion app. |
 
-**Languages & Frameworks:**
+### 🛠️ Stack
+
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
-**Engineering & Infrastructure:**
-* **CAD/CAM:** Autodesk Fusion 360.
-* **Manufacturing:** Precision 3D Printing (Bambu Lab P2S).
-* **Systems:** Embedded Systems (ESP32, Arduino), Proxmox VE (Virtualization), Linux Server management.
-* **AI/Vision:** Object Detection & Classification (YOLO/Ultralytics).
+- **Hardware:** PCB/schematic design (EasyEDA), soldering, power design (boost converters, decoupling), I2C sensor integration
+- **Design & fab:** SolidWorks, Onshape, OpenRocket, 3D printing (Bambu Lab P2S)
+- **Data:** pandas, SciPy, matplotlib · computer vision (YOLO, MediaPipe)
+- **Infra:** Linux, Proxmox VE home lab (VLANs, NAS, Pi-hole), Git
 
 ---
 
-### 🏗️ Home Lab & DevOps
-I maintain a dedicated lab environment for deployment testing and automation:
-* **Hypervisor:** Proxmox VE for managing VM nodes and LXC containers.
-* **Network:** Segmented VLANs for secure development (Pi-hole, local DNS).
-* **Storage:** Network Attached Storage (NAS) for asset management and documentation.
-
----
-
-![Stats](https://github-readme-stats.vercel.app/api?username=DonJechu&show_icons=true&theme=transparent)
-
-### 📫 Get in Touch
-* **Website:** [getamasa.com](https://getamasa.com)
-* **Email:** me@getamasa.com
-* **Personal Email:** jesusp2305@gmail.com
-* **LinkedIn:** [https://www.linkedin.com/in/jesus-perea]
-
----
-<p align="center">
-  <i>"Ad Astra per Aspera"</i>
-</p>
+<p align="center"><i>"Ad Astra per Aspera"</i></p>
